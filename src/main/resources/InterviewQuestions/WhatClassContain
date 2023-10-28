@@ -1,0 +1,27 @@
+what is class body =={}
+public class WhatClassContain {}
+
+what class contains === 5 things
+   1. variable
+   2. constructor
+   3. methods
+   4. instance block
+   5. static block
+   
+   a class has two types of area
+   static 
+   instance
+   
+   class are==
+     each method= part of the class
+     out side of the method == part of the class
+     class has two types of area== instance and static
+     by default == class is instance, 
+     static declare area==is static area
+     
+     what is static== something common
+                       does not change very often
+                       easily access 
+                       
+     what is instance== change value often time
+                        

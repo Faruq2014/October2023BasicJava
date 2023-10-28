@@ -1,0 +1,6 @@
+ what is encapsulation==
+ project-->package-->class-->methods
+ project==application
+ packages=a prticular topic such as login, registration
+ classes==a particular functionaliy such valid login
+ mehtod== a particular logic such user name
