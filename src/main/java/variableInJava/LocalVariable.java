@@ -6,6 +6,8 @@ public class LocalVariable {
 		
 		LocalVariable lv = new LocalVariable();
 	             lv.faruq();
+	             lv.tania();
+	             lv.sadia();
 	}
 	
 	
@@ -18,8 +20,17 @@ public class LocalVariable {
 		//= is operator
 		//"Faruq"= value/ initialization/assignment
 	}
-
+  
+	public void tania() {
+	final  String firstName="Tania";
+	  System.out.println(firstName);
+  }
 	
+  
+	public void sadia() {
+	  String firstName="Sadia";
+	  System.out.println(firstName);
+  }
 	
 	
 }

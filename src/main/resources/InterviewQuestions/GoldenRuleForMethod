@@ -1,0 +1,40 @@
+Based on access specifier two types of method
+   Static
+   Instance  
+  
+  Direct Access   
+     // static method going inside static method is direct access
+	 // static method going inside the instance method direct access
+	 // instance method going inside instance method direct access
+	 
+Indirect Access 
+	 //instance method going inside the static method indirect/class refferencial 
+	 
+Return Type	 
+	 void method
+	 Return method
+	 
+	 void method return nothing==what ever in the method arguement, 
+	                               it is final. 
+	                               can not change the argument 
+	 Return Type Method== Logic will return something
+	                      you can modify the logic
+	                      must have method data type
+	                      Return statement must be the last statement
+	
+	
+	                      
+ 10.What is method?
+11.	How many types of methods are available in java based on return type?
+How many types of methods are available in java based on acees specifier type?
+12.	What is instance method?
+13.	What is static or class method?
+14.	Describe “public static void main(String[]args)”
+15.	What is difference between static and instance method?
+16.	What are the scope of instance method?
+17.	What are the scope of static method?
+18.	What is method signature?
+19.	What is method overloading?
+20.	What is method calling?
+	                      
+	 
