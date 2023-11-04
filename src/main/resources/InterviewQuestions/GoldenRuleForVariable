@@ -1,6 +1,44 @@
+
 Local variable
   must have data type
   must have variable name
   must intialize the value
   scope only inside the method
+  only final access modifier possible
+  declaration and intialization must/happen same time
   
+  Instance variable
+    inside the class but out side of the method
+    any type of access modifier allow
+    declaration must, 
+    declaration must,intialization same time optional
+    intialization normally happen later
+    
+    Static variable
+    inside the class but out side of the method
+    any type of access modifier allow
+    declaration must, 
+    declaration must,intialization same time optional
+    intialization normally happen at the same time;
+    
+    final static String lastName="Molla";
+  
+  
+  
+  Access modifier
+	  public--anyone
+	  protected--only parent and child
+	  default--inside the package
+	  private-- only class
+
+1.	What is variable?
+2.	How many types of variable in java?
+3.	What is local variable?
+4.	What is instance variable?
+5.	What is static or class variable?
+6.	What is the difference between instance and static variable?
+7.	What are the scope of local variable?
+8.	What are the scope of instance variable?
+9.	What are the scope of static variable?
+
+	  
