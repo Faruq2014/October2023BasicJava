@@ -1,0 +1,34 @@
+
+ constructor is a especial method
+	 *   constructor has same name as class name
+	 *   constructor has no return type 
+	 *   but it does not say void in the declaration
+	 *   there are two types of constructor
+	 *      default--automatically provided by the JVM
+	 *      user define
+
+  constructor instantiate instance properties
+
+  Different constructor signature(name + parameter) is constructor overloading
+
+
+1.	What is a constructor?
+2.	How many types of constructor are there?
+3.	What is default constructor?
+4.	What is user defined constructor?
+5.	What is zero argument constructor?
+6.	What is the main job of a constructor?
+7.	What are the rules to declare a constructor?
+8.	Does constructor has return type?
+9.	Can constructor have different name than class?
+10.	Can constructor has access modifier?
+11.	By default what are the access modifier for constructor?
+12.	Can constructor be private?
+13.	What is parameterized constructor?
+14.	What are the difference between default and user defined constructor?
+15.	What is constructor overloading?
+16.	What is the difference between constructor and method?
+17.	What is return type in java?
+18.	What is void in java?
+19.	Why main method is always void?
+20.	What is the last syntax or statement in a return type method body?

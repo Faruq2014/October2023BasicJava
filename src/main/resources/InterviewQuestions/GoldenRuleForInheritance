@@ -1,0 +1,25 @@
+
+what is inheritance
+	Inheritance is a process of acquiring of one class properties 
+	normally methods and fields by another class. 
+	It’s like a parent and child relationship.
+	
+	extends key words is use to build that relationship between two classes
+	Child can use parent properties except private
+	parent can not use child properties
+	
+	
+	By default super constructor is invoke
+	
+	method over riding--->dynamic polymorphism
+	    same method name and same mathod signature
+	
+	  child can over ride parent method except final properties
+	    private properties can be over ridden
+	    child can give same access modifer==same scope
+	    child can give higher access modifer==increase the scope
+	    child can not give lower access modifer==decrease the scope
+	    child will always call overridden method by default 
+	    
+	  
+	
